@@ -19,3 +19,4 @@ public class a5 {
  System.out.println("Income Tax to be paid: ₹" + tax);
  }
 }
+
